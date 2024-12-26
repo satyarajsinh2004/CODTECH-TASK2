@@ -34,8 +34,6 @@ To run this project, open the `index.html` file in your web browser. Ensure that
 
 ## Installation
 
-- **Clone the repository:** `git clone https://github.com/trivedikrunal/Weather_Watch_App.git`
-
 - **Navigate to the project directory:** `cd Weather_Watch_App`
 
 ## Usage
