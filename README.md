@@ -1,3 +1,18 @@
+# CODTECH-task-2
+
+**COMPANY** :CODTECH IT SOLUTION PVT.LTD
+
+**NAME**  :THAKOR SATYARAJSINH MARUTSINH
+
+**INTERN ID** :CT12WFIX
+
+**DOMAIN**: FRONTEND WEB DEVLOPMENT
+
+**BATCH DURATION**:20DEC 2024,20 MARCH 2025
+
+**MENTOR NAME** :SRAVANI GOUNI
+
+**OVERVIEW OF PROJECT**:
 # Weather Watch App
 
 The Weather Watch App is a web application that provides current weather information for various locations. The app fetches weather data from an external API and displays it in a user-friendly interface.
