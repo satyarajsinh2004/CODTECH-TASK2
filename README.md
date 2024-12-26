@@ -37,8 +37,6 @@ Path: Weather_Watch_App/asset/js/scripts.js
 How to Run
 To run this project, open the index.html file in your web browser. Ensure that all the associated CSS and JavaScript files are in the correct directories as outlined above.
 
-Installation
-Clone the repository: git clone https://github.com/trivedikrunal/Weather_Watch_App.git
 
 Navigate to the project directory: cd Weather_Watch_App
 
